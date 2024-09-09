@@ -10,7 +10,7 @@ description: >-
 
 
 ```sql
-// Some code
+// My code
 with STARTED_POINT
  as (select user_id, session_type, session_id, min(session_start) over(partition by user_id) as started
 from twitch_sessions
