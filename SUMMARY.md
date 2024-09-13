@@ -9,7 +9,7 @@
 * [Page 7](page-7.md)
 * [Page 6](page-6.md)
 * [Page 5](page-5.md)
-* [Page 4](page-4.md)
+* [Fans vs Opposition](page-4.md)
 * [The Most Popular Client\_Id Among Users Using Video and Voice Calls](the-most-popular-client\_id-among-users-using-video-and-voice-calls.md)
 * [Viewers Turned Streamers](page-2.md)
 * [Top 3 Wineries In The World](top-3-wineries-in-the-world.md)
