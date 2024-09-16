@@ -8,7 +8,7 @@
 * [Page 8](page-8.md)
 * [Page 7](page-7.md)
 * [Page 6](page-6.md)
-* [Distinct Salaries](page-5.md)
+* [Distinct Salaries](distinct-salaries.md)
 * [Fans vs Opposition](fans-vs-opposition.md)
 * [The Most Popular Client\_Id Among Users Using Video and Voice Calls](the-most-popular-client\_id-among-users-using-video-and-voice-calls.md)
 * [Viewers Turned Streamers](viewers-turned-streamers.md)
