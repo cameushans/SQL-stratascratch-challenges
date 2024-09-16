@@ -1,2 +1,0 @@
-# Fans vs Opposition
-
