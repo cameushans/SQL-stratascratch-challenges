@@ -7,7 +7,7 @@
 * [Page 9](page-9.md)
 * [Page 8](page-8.md)
 * [Page 7](page-7.md)
-* [Page 6](page-6.md)
+* [Rush Hour Calls   Interview Question](page-6.md)
 * [Distinct Salaries](distinct-salaries.md)
 * [Fans vs Opposition](fans-vs-opposition.md)
 * [The Most Popular Client\_Id Among Users Using Video and Voice Calls](the-most-popular-client\_id-among-users-using-video-and-voice-calls.md)
